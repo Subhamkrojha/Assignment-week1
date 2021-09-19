@@ -15,7 +15,7 @@ namespace maintenanceofflight
         {
             Console.WriteLine("Enter staff personel name:");
             staff = Console.ReadLine();
-            Console.WriteLine("{0},Eneter Flight Name:");
+            Console.WriteLine("Enter Flight Name:");
             flightnumber= Convert.ToInt32(Console.ReadLine());
             check();
 
