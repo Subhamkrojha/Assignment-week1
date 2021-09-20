@@ -1,0 +1,6 @@
+Benifits of Interface are as follows
+1) By using interfaces we lower the Development cost.
+2) by using interfaces we increase the productivity.
+3) By using interfaces we simlify everything with our website.
+4) It's easy to use and users don't get frustrated.
+An interface is a completely "abstract class" which can only contain abstract methods and properties.
